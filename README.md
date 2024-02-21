@@ -1,4 +1,4 @@
-![Image of my Profile Card](Image of Project.jpg)
+![Thumbnail of my Profile Card](Image-of-Project.jpg) 
 
 # My Profile Card
 
