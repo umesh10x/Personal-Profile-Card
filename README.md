@@ -1,3 +1,7 @@
+
+![Thumbnail of my Profile Card]((https://imgur.com/a/qgeZelQ))
+
+
 # My Profile Card
 
 A basic profile card project created to practice HTML, CSS, and introduce myself.
