@@ -1,5 +1,5 @@
 
-![Thumbnail of my Profile Card]((https://imgur.com/a/qgeZelQ))
+![Thumbnail of my Profile Card]((<blockquote class="imgur-embed-pub" lang="en" data-id="ZHLYvUL"><a href="//imgur.com/ZHLYvUL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>))
 
 
 # My Profile Card
