@@ -1,10 +1,8 @@
-
-![Thumbnail of my Profile Card]((<blockquote class="imgur-embed-pub" lang="en" data-id="ZHLYvUL"><a href="//imgur.com/ZHLYvUL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>))
-
+![Image of my Profile Card](Image of Project.jpg)
 
 # My Profile Card
 
-A basic profile card project created to practice HTML, CSS, and introduce myself.
+A basic profile card project...
 
 ## Live Demo
 
