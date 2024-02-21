@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 25vh;
+  background-color: #1e1e1e;
+}
+h1 {
+  /* Assumes your name is within an <h1> tag */
+  color: #001d3b;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+p.title {
+  /* Target the <p> tag with class "title" */
+  color: #333f4b;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+p {
+  /* Targets all <p> elements, adjust if you have a specific class */
+  color: #606367;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 125% line height */
+}
+
+.card {
+  border-radius: 16px;
+  width: 300px;
+  padding: 20px;
+  margin: 0 auto; /* Centers the card */
+  background-color: #fafafa;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  border-radius: 100%; /* Makes your image circular */
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.button {
+  display: block;
+  width: 200px;
+  height: 48px;
+  border-radius: 8px;
+  background: #1b7ad9;
+  color: #fff; /* Text color: white */
+  text-decoration: none;
+  border: none;
+  text-align: center;
+  line-height: 48px; /* Key for vertical centering */
+  font-family: sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  cursor: pointer;
+  margin: 0 auto; /* This centers the button horizontally */
+}
+h1 {
+  /* Assumes name is within an <h1> tag */
+  margin-bottom: 16px; /* 16px space between name and role */
+}
+
+p.title {
+  /* Assumes role is within a <p> tag with class "title" */
+  margin-bottom: 20px; /* 20px space between role and description */
+}
+
+p {
+  /* Assumes description is in a <p> tag */
+  margin-bottom: 20px; /* 20px space between description and button */
+}
